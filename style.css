@@ -3,6 +3,11 @@ body {
 
 }
 
+.collection-category h2 a {
+  color: #f6c120;
+}
+
+
 /* header */
 .navbar .nav li a, .navbar .icon-private-w {
 	font-weight: 400;
