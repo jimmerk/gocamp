@@ -85,13 +85,14 @@ itter topbody {
 
 #docsSearch h1 {
 	font-family: inherit;
-	font-size: 2.25rem;
+	font-size: 3rem;
 	font-weight: 800;
     text-transform: uppercase;
     text-align: center;
     margin-top: 0.4em;
-    color: #193368;
+    color: #f6c120;
 }
+
 
 /* home */
 
