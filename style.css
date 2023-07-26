@@ -3,8 +3,6 @@ itter topbody {
 
 }
 
-
-
 .body {
 	background-color: #fcfaf7;
 	font-family: Interstate,sans-serif;
@@ -16,10 +14,11 @@ itter topbody {
 }
 
 .collection-category h2 a {
+	font-family: Interstate,sans-serif;
 	color: #193368;
 	font-weight: 700;
     letter-spacing: -.022em;
-	font-size: 2rem;
+	font-size: 3rem;
 }
 
 @media (max-width: 768px) {
