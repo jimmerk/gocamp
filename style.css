@@ -10,8 +10,9 @@ itter topbody {
 
 .collection-category h2 a {
 	color: #193368;
+	font-weight: 700;
+    letter-spacing: -.022em;
 	font-size: 2rem;
-	font-weight: 800;
 }
 
 @media (max-width: 768px) {
@@ -21,8 +22,6 @@ itter topbody {
 }
 
 #docsSearch {
-    padding-top: 3.75rem;
-    padding-bottom: 3.75rem;
     background-color: #fcfaf7;
 }
 
