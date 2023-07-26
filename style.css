@@ -87,6 +87,16 @@ itter topbody {
 }
 
 
+/* article lists */
+
+.articleList a span {
+	text-decoration: none;
+}
+
+.articleList a:hover span {
+	color: #67cbdf;
+}
+
 
 /* header */
 
