@@ -68,8 +68,9 @@ itter topbody {
 
 .category h3 {
 	font-family: Interstate,sans-serif;
-	font-weight: 700;
+	font-weight: 600;
 	color: #193368;
+	letter-spacing: -.022em;
 }
 
 
