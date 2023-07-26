@@ -33,7 +33,6 @@ itter topbody {
 }
 
 .category-list a.category:hover {
-	background: inherit;
 	background-color: #f8f8f8;
 }
 
