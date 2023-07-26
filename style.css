@@ -3,6 +3,10 @@ itter topbody {
 
 }
 
+.brand img {
+    width: 120px;
+}
+
 .body {
 	background-color: #fcfaf7;
 	font-family: Interstate,sans-serif;
