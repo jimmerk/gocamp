@@ -87,7 +87,14 @@ itter topbody {
 }
 
 
+
 /* article lists */
+
+.articleList {
+	font-family: Interstate,sans-serif;
+	font-weight: 300;
+	color: #193368;
+}
 
 .articleList a span {
 	text-decoration: none;
