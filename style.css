@@ -20,6 +20,12 @@ itter topbody {
 	}
 }
 
+#docsSearch {
+    padding-top: 3.75rem;
+    padding-bottom: 3.75rem;
+    background-color: #fcfaf7;
+}
+
 .category-list {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
