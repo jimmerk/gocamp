@@ -35,7 +35,7 @@ itter topbody {
 	color: #193368;
 	font-weight: 700;
     letter-spacing: -.022em;
-	font-size: 3rem;
+	font-size: 2.5rem;
 }
 
 @media (max-width: 768px) {
@@ -43,7 +43,6 @@ itter topbody {
 			width: 5%;
 	}
 }
-
 
 .category-list {
 	display: grid;
