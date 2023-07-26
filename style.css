@@ -74,15 +74,6 @@ itter topbody {
 
 
 /* header */
-.navbar .nav li a, .navbar .icon-private-w {
-	font-weight: 400;
-	text-transform: uppercase;
-	padding: .7rem .9375rem;
-	letter-spacing: 1px;
-	font-size: 1rem;
-	font-family: inherit;
-	transition: background-color .25s ease-out,color .25s ease-out;
-}
 
 #docsSearch {
 	padding-top: 3.75rem;
