@@ -54,8 +54,8 @@ itter topbody {
 	background-image: url('calendar2.png');
 	background-repeat: no-repeat;
   	background-size: 80px 80px;
-	background-position: center 15%;
-	padding: 100px 15px 15px 15px;
+	background-position: center 20%;
+	padding: 110px 15px 15px 15px;
 	width: inherit;
 	border-radius: 12px;
 }
