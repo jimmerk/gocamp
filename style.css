@@ -3,10 +3,13 @@ itter topbody {
 
 }
 
+.body {
+	background-color: #fcfaf7;
+}
+
 .collection-category h2 a {
   color: #f6c120;
-	font-size: 3rem;
-	text-transform: uppercase;
+	font-size: 2.5rem;
 	font-weight: 800;
 }
 
