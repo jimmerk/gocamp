@@ -22,7 +22,7 @@ itter topbody {
 	gap: 12px;
 }
 
-.category-list .category {
+.category-list .category, .category-list a.category:hover {
 	background-image: url('calendar2.png');
 	background-repeat: no-repeat;
   	background-size: 80px 80px;
