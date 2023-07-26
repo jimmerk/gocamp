@@ -27,7 +27,7 @@ nav .nav {
 	font-size: 16px;
 	font-weight: 700;
 	letter-spacing: -0.352px;
-	text-transform: initial;
+	text-transform: none !important;
 }
 
 .collection-category h2 a {
