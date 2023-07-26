@@ -102,7 +102,7 @@ itter topbody {
 }
 
 .articleList a span {
-	text-decoration: none;
+	text-decoration: none !important;
 }
 
 .articleList a:hover span {
