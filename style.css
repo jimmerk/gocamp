@@ -67,8 +67,8 @@ itter topbody {
 
 .category-list a.category:hover {
 	background-color: #63cfe3;
-	-webkit-transition: none;
-    transition: none;
+	/* -webkit-transition: none;
+    transition: none; */
 }
 
 .category h3 {
@@ -76,6 +76,10 @@ itter topbody {
 	font-weight: 600;
 	color: #193368;
 	letter-spacing: -.022em;
+}
+
+.category-list .category:hover .article-count {
+    color: #ffffff;
 }
 
 .article-count {
