@@ -67,8 +67,8 @@ itter topbody {
 
 .category-list a.category:hover {
 	background-color: #63cfe3;
-	/* -webkit-transition: none;
-    transition: none; */
+	-webkit-transition: none;
+    transition: none;
 }
 
 .category h3 {
