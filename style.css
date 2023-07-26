@@ -58,14 +58,15 @@ itter topbody {
 	background-repeat: no-repeat;
   	background-size: 80px 80px;
 	background-position: center 20%;
+	background-color: #f2efe7;
 	padding: 110px 15px 15px 15px;
 	width: inherit;
 	border-radius: 12px;
-	border-color: #f2efe7;
+	border-color: #e4e1d9;
 }
 
 .category-list a.category:hover {
-	background-color: #fcfaf7;
+	background-color: #63cfe3;
 	-webkit-transition: none;
     transition: none;
 }
