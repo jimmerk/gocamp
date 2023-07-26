@@ -21,10 +21,6 @@ itter topbody {
 	}
 }
 
-#docsSearch {
-    background-color: #fcfaf7;
-}
-
 .category-list {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
@@ -59,7 +55,7 @@ itter topbody {
 #docsSearch {
 	padding-top: 3.75rem;
     padding-bottom: 3.75rem;
-	background-color: #0f1f40;
+	background-color: #fcfaf7;
 }
 
 #docsSearch h1 {
@@ -69,7 +65,7 @@ itter topbody {
     text-transform: uppercase;
     text-align: center;
     margin-top: 0.4em;
-    color: #fff;
+    color: #0f1f40;
 }
 
 /* home */
