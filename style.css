@@ -21,6 +21,15 @@ itter topbody {
     min-height: 79px;
 }
 
+nav .nav {
+	font-family: Interstate-condensed, sans-serif;
+	font-feature-settings: "tnum", "tnum";
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: -0.352px;
+	text-transform: initial;
+}
+
 .collection-category h2 a {
 	font-family: Interstate,sans-serif;
 	color: #193368;
@@ -34,6 +43,9 @@ itter topbody {
 			width: 5%;
 	}
 }
+
+
+
 
 .category-list {
 	display: grid;
