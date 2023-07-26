@@ -3,10 +3,16 @@ itter topbody {
 
 }
 
+
+
 .body {
 	background-color: #fcfaf7;
 	font-family: Interstate,sans-serif;
 	font-feature-settings: "tnum","tnum";
+}
+
+.navbar {
+	border-bottom: 1px solid #f2efe7;
 }
 
 .collection-category h2 a {
