@@ -63,6 +63,7 @@ itter topbody {
 	width: inherit;
 	border-radius: 12px;
 	border-color: #e4e1d9;
+	margin: 0;
 }
 
 .category-list a.category:hover {
