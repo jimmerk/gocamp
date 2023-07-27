@@ -280,6 +280,9 @@ itter topbody {
 		margin-top: 0.4em;
 
 	}
+	#docsSearch {
+		padding: 20px 20px;
+	}
 }
 
 @media (min-width: 768px) {
