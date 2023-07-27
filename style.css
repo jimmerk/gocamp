@@ -41,28 +41,6 @@ itter topbody {
 	font-size: 2.5rem;
 }
 
-@media (max-width: 768px) {
-	.category-list .category, .category-list a.category:hover {
-			width: 100%;
-	}
-	#docsSearch h1 {
-		font-size: 2.3rem;
-		font-weight: 800;
-		margin-top: 0.4em;
-
-	}
-}
-
-@media (min-width: 768px) {
-	.category-list {
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-	gap: 12px;
-}
-}
-
-
-
 .category-list .category, .category-list a.category:hover {
 	background-image: url('calendar2.png');
 	background-repeat: no-repeat;
@@ -289,3 +267,25 @@ itter topbody {
  #fullArticle h5 {
  	font-size: 1.125rem;
  }
+
+
+ 
+@media (max-width: 768px) {
+	.category-list .category, .category-list a.category:hover {
+			width: 100%;
+	}
+	#docsSearch h1 {
+		font-size: 2.3rem;
+		font-weight: 800;
+		margin-top: 0.4em;
+
+	}
+}
+
+@media (min-width: 768px) {
+	.category-list {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	gap: 12px;
+}
+}
