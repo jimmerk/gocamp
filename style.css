@@ -105,6 +105,9 @@ itter topbody {
 	padding-top: 3.75rem;
     padding-bottom: 3.75rem;
 	background-color: #fcfaf7;
+	background-image: url(https://staging-front.gocamp.com/images/home/home-bg-desktop.jpg);
+    background-size: cover;
+    background-position-y: 45%;
 }
 
 #docsSearch h1 {
