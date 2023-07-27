@@ -45,6 +45,12 @@ itter topbody {
 	.category-list .category, .category-list a.category:hover {
 			width: 100%;
 	}
+	#docsSearch h1 {
+		font-size: 2.3rem;
+		font-weight: 800;
+		margin-top: 0.4em;
+
+	}
 }
 
 @media (min-width: 768px) {
