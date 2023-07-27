@@ -47,11 +47,15 @@ itter topbody {
 	}
 }
 
-.category-list {
+@media (min-width: 768px) {
+	.category-list {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	gap: 12px;
 }
+}
+
+
 
 .category-list .category, .category-list a.category:hover {
 	background-image: url('calendar2.png');
