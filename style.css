@@ -13,23 +13,23 @@
 	font-feature-settings: "tnum","tnum";
 }
 
-category-182
-category-223
-category-220
-category-227
-category-213
-category-239
-category-232
-category-85
-category-164
-category-131
-category-122
-category-154
-category-103
-category-108
-category-146
-category-139
-category-115
+#category-182 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/182-key.png"); }
+#category-223 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/223-cal-click.png"); }
+#category-220 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/220-manage-listing.png"); }
+#category-227 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/227-keyfob.png"); }
+#category-213 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/213-146-fees.png"); }
+#category-239 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/239-131-cancel.png"); }
+#category-232 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/232-incidents.png"); }
+#category-85  { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/85-calendar.png"); }
+#category-164 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/164-101.png"); }
+#category-131 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/239-131-cancel.png"); }
+#category-122 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/122-roadside.png"); }
+#category-154 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/154-managing.png"); }
+#category-103 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/103-mileage.png"); }
+#category-108 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/108-one-way.png"); }
+#category-146 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/213-146-fees.png"); }
+#category-139 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/139-discount.png"); }
+#category-115 { background-image: url("https://gocamp-helpscout-assets.s3.us-west-1.amazonaws.com/assets/115-restrictions.png"); }
 
 .navbar {
 	border-bottom: 1px solid #f2efe7;
